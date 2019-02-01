@@ -1,8 +1,8 @@
 # AutoPilot
 Steering wheel Rotation movement using Computer vision
 
-# Self Driving Car (End to End CNN/Dave-2)
-![alt img](https://cdn-images-1.medium.com/max/868/0*7dReqQXElneHBWUr.jpg)<br>
+
+![alt img](https://static.dezeen.com/uploads/2018/01/paul-priestman-priestmangoode-autonomous-vehicles-self-driving-cars-exacerbate-congestion-drones-transport-virtual-reality_dezeen_2364_hero_0-1704x959.jpg)<br>
 Refer the [Self Driving Car Notebook](./Self_Driving_Car_Notebook.ipynb) for complete Information <br>
 
 * Used convolutional neural networks (CNNs) to map the raw pixels from a front-facing camera to the steering commands for a self-driving car. This powerful end-to-end approach means that with minimum training data from humans, the system learns to steer, with or without lane markings, on both local roads and highways. The system can also operate in areas with unclear visual guidance such as parking lots or unpaved roads.
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=NJU9ULQUwng
 * More work is needed to improve the robustness of the network, to find methods to verify the robust- ness, and to improve visualization of the network-internal processing steps.
 
 ### Demo
-![alt img](./self_driving_car_gif.gif)<br>
+![alt img](https://media1.tenor.com/images/8456fab940258acf57869491f5cc18d3/tenor.gif?itemid=10697697)<br>
 
 ### How to Use
 Download Dataset by Sully Chen: [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view]
